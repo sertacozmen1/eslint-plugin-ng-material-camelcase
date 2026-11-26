@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ng-material",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "ESLint plugin that enforces the camelCase Angular Material button selectors (matButton, matIconButton, matFab, matMiniFab) instead of mat-button, mat-raised-button and friends",
   "type": "module",
   "main": "./index.js",
